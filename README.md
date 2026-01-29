@@ -7,7 +7,7 @@
 1. **Clone or Download the Project**
    ```sh
    git clone <repo-url>
-   cd Tetris-main/Tetris-main
+   cd TetrisML-main/TetrisML-main
    ```
 
 2. **Create a Virtual Environment**
@@ -30,3 +30,4 @@
    ```sh
    python main.py
    ```
+
